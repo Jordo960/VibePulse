@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VibePulse Nutrition",
+  "description": "A high-performance nutrition and fitness tracker with stunning glassmorphism aesthetics, macro tracking, and detailed progress insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
